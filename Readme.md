@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for **Internships**
-- 💬 Ask me about Anything! I am ready for the help.
+- 💬 Ask me about Anything! I am happy to help.
 - 😄 Pronouns : **She/Her**
 
 <br/>
