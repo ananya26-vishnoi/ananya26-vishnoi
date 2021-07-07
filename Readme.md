@@ -85,24 +85,12 @@
 
 <br/>
 
-#
-
-
-
 </a>
 
 <br>
 <br>
 
 </p>
-
-<p align="center">
-  <a href='https://github.com/ananya26-vishnoi/'>
-    <img width="30%" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif"/>
-    
-  </a>
-</p>
-
 <h1>
          Connect With Me
   
