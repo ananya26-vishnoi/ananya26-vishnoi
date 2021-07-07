@@ -41,9 +41,6 @@
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://www.animatedimages.org/data/media/118/animated-robot-image-0051.gif"></a>
-<br/>
-
 **LANGUAGES AND TOOLS:**  
 <br/>
 <br/>
@@ -52,8 +49,6 @@
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-#
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -131,8 +126,6 @@
 </p>
 <a>
     <img alt="Awesome Badges" src="https://img.shields.io/badge/badges-awesome-green.svg" />
-  </a>
-  <a>
     <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
   </a>
 
