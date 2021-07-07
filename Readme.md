@@ -124,13 +124,6 @@
 <br/>
 <br/>
 </p>
-<a>
-    <img alt="Awesome Badges" src="https://img.shields.io/badge/badges-awesome-green.svg" />
-    <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
-  </a>
-
-
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
