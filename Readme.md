@@ -1,7 +1,7 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨 Everyone!! 
   <a target="_blank">
-    <img src="https://media.giphy.com/media/X2Iney7tVHeWtS1Y9Z/giphy.gif" width="24px" style="max-width:100%;">
+    <img src="https://media.giphy.com/media/X2Iney7tVHeWtS1Y9Z/giphy.gif" width="30px" style="max-width:100%;">
   </a>
 </h1>
 
