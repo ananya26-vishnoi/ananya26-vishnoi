@@ -105,4 +105,12 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
   <p align="center">
   <img src="https://profile-counter.glitch.me/ananya26-vishnoi/count.svg">
 </p>
+    
 
+
+
+
+## <b>Credits<b>
+
+-----
+Credits: [Ananya Vishnoi](https://github.com/ananya26-vishnoi)
