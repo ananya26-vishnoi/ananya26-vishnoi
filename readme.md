@@ -111,6 +111,4 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
 
 
 ## <b>Credits<b>
-
------
 Credits: [Ananya Vishnoi](https://github.com/ananya26-vishnoi)
