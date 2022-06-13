@@ -98,7 +98,12 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/ananya26-vishnoi/TranslatorSelenium?logoColor=red&style=social">](https://github.com/ananya26-vishnoi/TranslatorSelenium/network/members)
  
 ## <b>Github Activity Graph </b>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ananya26-vishnoi&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ananya26-vishnoi&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+## <b>Streak Statistics</b>
+<div>
+    <img alt="Jayant's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya26-vishnoi&theme=dark&hide_border=true"/>
+</div>
 
 
 ## <b> Visitors</b>
