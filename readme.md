@@ -14,8 +14,8 @@
 
 
 - 🔭 I’m currently working on UX Designing.
-- 🌱 I’m currently learning AR/VR.
-- 👯 I’m looking to collaborate on Front-end Web Development.
+- 🌱 I’m currently learning AR.
+- 👯 I’m looking to collaborate on Full-Stack Web Development.
 - 💬 Ask me about anything.
 - 📫 How to reach me: ananyavishnoi26@gmail.com
 - 😄 Pronouns: She/Her
