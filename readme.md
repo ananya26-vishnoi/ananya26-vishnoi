@@ -12,7 +12,7 @@
 ----
 
 
-- 🔭 I’m currently working as a Visual Designer.
+- 🔭 I’m currently working as a Software Developer.
 - 🌱 I’m currently learning AR.
 - 💬 Ask me about anything.
 - 📫 How to reach me: ananyavishnoi26@gmail.com
