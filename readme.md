@@ -3,13 +3,14 @@
 <img align="right" src="./gif.gif" length=250px width=250px>
 
 <br>
-<i>I am pursuing <b>B.Tech in Computer Science (2020-24)</b> from <b>Graphic Era Deemed University</b>. Additionally, I'm <b>Software Developer and Visual Designer</i></b>
+<i>I am pursuing <b>B.Tech in Computer Science (2020-24)</b> from <b>Graphic Era Deemed University.</i></b>
 <br>
 <br>
 
-**Open for collaboration on full-stack web development and UI/UX designing projects**
 
-----
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+UI+/UX+Designer!;I'm+an+Augmented+Reality+Developer!;I'm+a+Django+Developer!" /></a>
+</p>
 
 
 - 🔭 I’m currently working as a Software Developer.
@@ -18,6 +19,16 @@
 - 📫 How to reach me: ananyavishnoi26@gmail.com
 - 😄 Pronouns: She/Her
 -----
+
+#### A little more about me
+```javascript
+const ananya = {
+  pronouns: "She" | "Her",
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "augmented reality", 
+  "designing", "python"],
+}
+```
 
 
 ## <b>Profile</b>
@@ -88,9 +99,22 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
     <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya26-vishnoi&theme=dark&hide_border=true"/>
 </div>
 
+<!-- 
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif) -->
+
+<!-- ## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://raw.githubusercontent.com/ananya26-vishnoi/ananya26-vishnoi/output/github-contribution-grid-snake.svg)
+
+--- -->
+
+## Have a Smiley Day...😃 :<br>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## <b> Visitors</b>
   <p align="center">
   <img src="https://profile-counter.glitch.me/ananya26-vishnoi/count.svg">
 </p>
+
+
+
 
