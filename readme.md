@@ -107,6 +107,8 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
 
 --- -->
 
+[![Ananya's github activity graph](https://activity-graph.herokuapp.com/graph?username=ananya26-vishnoi&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ananya26-vishnoi/github-readme-activity-graph)
+
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
