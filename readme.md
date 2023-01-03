@@ -99,16 +99,11 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
     <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya26-vishnoi&theme=dark&hide_border=true"/>
 </div>
 
-## Streak graph
+## <b> Streak Graph</b>
+<div>
+
 [![Ananya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ananya26-vishnoi&bg_color=000000&color=fcfcfc&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- 
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif) -->
-
-<!-- ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/ananya26-vishnoi/ananya26-vishnoi/output/github-contribution-grid-snake.svg)
-
---- -->
+</div>
 
 ## Have a Smiley Day...😃 :<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -117,7 +112,3 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
   <p align="center">
   <img src="https://profile-counter.glitch.me/ananya26-vishnoi/count.svg">
 </p>
-
-
-
-
