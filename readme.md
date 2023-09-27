@@ -9,12 +9,12 @@
 
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+UI+/UX+Designer!;I'm+an+Augmented+Reality+Developer!;I'm+a+Django+Developer!" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+UI+/UX+Designer!;I'm+a+Frontend+Developer!;I'm+a+Django+Developer!" /></a>
 </p>
 
 
 - 🔭 I’m currently working as a Software Developer.
-- 🌱 I’m currently learning AR.
+- 🌱 I’m currently learning Django.
 - 💬 Ask me about anything.
 - 📫 How to reach me: ananyavishnoi26@gmail.com
 - 😄 Pronouns: She/Her
@@ -24,9 +24,9 @@
 ```javascript
 const ananya = {
   pronouns: "She" | "Her",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "augmented reality", 
-  "designing", "python"],
+  code: ["Javascript", "Python", "HTML", "CSS"],
+  askMeAbout: ["web dev", "Django", 
+  "branding", "ui/ux designing"],
 }
 ```
 
