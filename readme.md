@@ -102,7 +102,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
 ## <b> Streak Graph</b>
 <div>
 
-[![Ananya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ananya26-vishnoi&bg_color=000000&color=fcfcfc&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananya26-vishnoi&bg_color=000000&color=afacac&line=808080&point=a39595&area=true&hide_border=true)](https://github.com/ananya26-vishnoi0/github-readme-activity-graph)
 </div>
 
 ## Have a Smiley Day...😃 :<br>
