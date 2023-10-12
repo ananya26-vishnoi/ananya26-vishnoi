@@ -83,15 +83,10 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
 </table>
 
 
-## <b>Github Statistics</b>
-
-[![Ananya Vishnoi github stats](https://github-readme-stats.vercel.app/api?username=ananya26-vishnoi&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/ananya26-vishnoi/github-readme-stats)
 
 ## <b>Languages Used</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/ananya26-vishnoi/github-readme-stats)
-
-
 
 
 ## <b>Streak Statistics</b>
