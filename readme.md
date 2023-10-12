@@ -57,10 +57,9 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: ananyavishnoi26@gmail.com<br/><br/>
- 🔭 &emsp; I’m currently working as a Software Developer<br/><br/>
  🌱 &emsp; I’m currently learning Django.<br/><br/>
  😄 &emsp; Pronouns: She/Her<br/><br/>
+ 📧 &emsp; Reach me anytime: ananyavishnoi26@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything<br/><br/>
 
 
