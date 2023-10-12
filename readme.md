@@ -89,6 +89,8 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-Anany
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/ananya26-vishnoi/github-readme-stats)
 
 
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananya26-vishnoi&show_icons=true&theme=radical)
+
 ## <b>Streak Statistics</b>
 <div>
     <img alt="Ananya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya26-vishnoi&theme=dark&hide_border=true"/>
