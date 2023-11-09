@@ -81,13 +81,6 @@
 
 <br/>
 
-
-<p align="center">
-  <a href="https://github.com/ananya26-vishnoi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya26-vishnoi&theme=radical&border=7F3FBF&background=0D1117" alt="Ananya's GitHub streak"/>
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/ananya26-vishnoi">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananya26-vishnoi&theme=radical" alt="Ananya's GitHub Contribution"/>
