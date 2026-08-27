@@ -136,7 +136,6 @@ A compatibility-focused roommate discovery platform designed to help users find 
 
 **Profile → Preferences → Match → Understand → Connect → Outcome**
 
-[View Product Case Study →](#)
 
 ---
 
@@ -157,7 +156,6 @@ An AI-powered product focused on reducing repetitive work and helping users find
 * Product metrics
 * Human-in-the-loop design
 
-[View Case Study →](#)
 
 ---
 
@@ -185,7 +183,6 @@ A product analytics system designed to help teams understand user behavior and i
 
 > What should we build next?
 
-[View Project →](#)
 
 ---
 
@@ -301,9 +298,6 @@ I document product decisions and thinking through:
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananya26-vishnoi&custom_title=Ananya%20Vishnoi%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-</p>
 
 ---
 
