@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Ananya Vishnoi
 
-### Product Manager • Technical Product Manager • Product Builder
-
 **Turning problems into products — from discovery and strategy to execution and production.**
 
 <p>
@@ -24,7 +22,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Product Management professional with an engineering background**, focused on turning user and business problems into practical, scalable products.
+I'm a **Software Engineer and Product Management professional with an engineering background**, focused on turning user and business problems into practical, scalable products.
 
 I work across the product lifecycle — from **problem discovery, user research, and product strategy to requirements, prioritization, execution, and launch**.
 
