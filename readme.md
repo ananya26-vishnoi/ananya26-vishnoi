@@ -1,16 +1,25 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:111827,50:1e3a5f,100:2563eb&text=ANANYA%20VISHNOI&fontColor=ffffff&fontSize=55&fontAlignY=45&desc=Software%20Engineer%20%7C%20Founding%20Engineer%20%7C%20Product%20Builder&descAlignY=65&descSize=16&animation=fadeIn" width="100%" />
 
 ### Building ideas into products. Engineering experiences that matter.
 
-*Software Engineer • Founding Engineer at Roomrr • Web & Mobile Development*
+**Software Engineer • Founding Engineer at Roomrr • Web & Mobile Development**
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ananya-vishnoi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://ananyavishnoi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:ananyavishnoi26@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ananya-vishnoi/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://ananyavishnoi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:ananyavishnoi26@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ananya26-vishnoi&style=flat-square&color=2563eb&label=PROFILE+VIEWS" />
 
@@ -84,7 +93,8 @@ Strengthening my engineering fundamentals, exploring modern development tools an
 
 ### Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,vue,django" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=django" />
 
 ### Tools & Platforms
 
@@ -160,7 +170,7 @@ Contributing to an early-stage product as a Founding Engineer, bringing engineer
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=ananya26-vishnoi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
@@ -190,16 +200,22 @@ I'm open to meaningful conversations, collaborations and international software 
 
 ### Have an interesting idea? Let's build something.
 
-<a href="https://www.linkedin.com/in/ananya-vishnoi/"><img src="https://img.shields.io/badge/LinkedIn-Ananya%20Vishnoi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br/>
 
-<a href="https://ananyavishnoi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ananya-vishnoi/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="mailto:ananyavishnoi26@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://ananyavishnoi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:ananyavishnoi26@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 
-**BUILD. SHIP. LEARN. REPEAT.** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=100&section=footer" width="100%" />
+**BUILD. SHIP. LEARN. REPEAT. 🚀**
 
 </div>
