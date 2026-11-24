@@ -1,328 +1,205 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm Ananya Vishnoi
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:111827,50:1e3a5f,100:2563eb&text=ANANYA%20VISHNOI&fontColor=ffffff&fontSize=55&fontAlignY=45&desc=Software%20Engineer%20%7C%20Founding%20Engineer%20%7C%20Product%20Builder&descAlignY=65&descSize=16&animation=fadeIn" width="100%" />
 
-**Turning problems into products — from discovery and strategy to execution and production.**
+### Building ideas into products. Engineering experiences that matter.
 
-<p>
-  <a href="https://www.linkedin.com/in/ananya-vishnoi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ananyavishnoi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:ananyavishnoi26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+*Software Engineer • Founding Engineer at Roomrr • Web & Mobile Development*
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ananya-vishnoi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://ananyavishnoi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:ananyavishnoi26@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=ananya26-vishnoi&style=flat-square&color=2563eb&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
-I'm a **Software Engineer and Product Management professional with an engineering background**, focused on turning user and business problems into practical, scalable products.
+Hey, I'm **Ananya Vishnoi** — a Computer Science graduate, Software Engineer and Founding Engineer at **Roomrr**.
 
-I work across the product lifecycle — from **problem discovery, user research, and product strategy to requirements, prioritization, execution, and launch**.
+I enjoy taking ideas from the drawing board to working applications. My journey has involved building web and mobile applications, experimenting with technologies, solving engineering challenges and contributing to products from an early stage.
 
-My engineering experience allows me to work closely with technical teams and understand the realities behind product decisions, APIs, architecture, data, and implementation.
+I've worked with **React Native** and built 4–5 mobile applications, alongside experience in frontend and web development.
 
-### What I enjoy
+Currently, I'm part of the founding engineering journey at Roomrr, working in a startup environment where engineering, product thinking and execution come together.
 
-* 🔎 Understanding user problems and finding the right product opportunity
-* 🧩 Turning ambiguous problems into clear product requirements
-* 🗺️ Defining product strategy, roadmaps, and MVPs
-* 🤝 Working across product, engineering, design, and business teams
-* 🤖 Building and exploring AI-powered products
-* 📊 Using data and experiments to improve product decisions
-* 🚀 Taking products from **idea → MVP → production → iteration**
+I believe great software isn't just about writing code. It's about understanding the problem, making thoughtful technical decisions and building something people genuinely find useful.
 
----
+**A little about what drives me:**
 
-## 🎯 Product Management
-
-**Product Strategy**
-
-* Product Discovery
-* User Research
-* Problem Definition
-* Competitive Analysis
-* Product Vision
-* Product Roadmapping
-* MVP Definition
-* Feature Prioritization
-
-**Product Execution**
-
-* PRDs
-* User Stories
-* Acceptance Criteria
-* Backlog Management
-* Sprint Planning
-* Agile / Scrum
-* Release Planning
-* Stakeholder Management
-* Cross-functional Collaboration
-
-**Product Analytics**
-
-* Product Metrics
-* KPI Definition
-* Funnel Analysis
-* User Behavior Analysis
-* Experimentation / A/B Testing
-* Product Performance Analysis
-
-**AI Product Management**
-
-* Generative AI
-* AI Product Discovery
-* LLM-powered Products
-* AI Feature Design
-* AI UX
-* AI Product Evaluation
-* Responsible AI
+- 🚀 Building products from 0 → 1
+- 📱 Developing mobile and web applications
+- 💻 Exploring frontend engineering and application architecture
+- 🧩 Turning real-world problems into practical technical solutions
+- ⚡ Learning, experimenting and continuously improving as an engineer
+- 🤝 Collaborating with people who love building meaningful technology
 
 ---
 
-## 🛠️ Technical Background
-
-I started from the engineering side, which gives me a strong technical foundation for working with engineering teams.
-
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Product & Engineering Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge\&logo=confluence\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
----
-
-# 🚀 Featured Product Projects
-
-## 🏠 AI-Powered Roommate Matching Platform
-
-**Product Management • AI • UX • Full-Stack Development**
-
-A compatibility-focused roommate discovery platform designed to help users find people they can actually live with — beyond traditional filters such as location and budget.
-
-### Product focus
-
-* 🔎 User research & problem discovery
-* 👥 User personas & journey mapping
-* 🧩 MVP definition
-* 📝 Product requirements & user stories
-* 🗺️ Product roadmap
-* 🎯 Feature prioritization
-* 🤖 AI-assisted compatibility matching
-* 📊 Product metrics & experimentation
-* 🎨 UX & interaction design
-
-### Core Product Flow
-
-**Profile → Preferences → Match → Understand → Connect → Outcome**
-
-
----
-
-## 🤖 AI Product
-
-**AI • Product Strategy • Generative AI • UX**
-
-An AI-powered product focused on reducing repetitive work and helping users find relevant information faster.
-
-### Product focus
-
-* Problem discovery
-* User journey
-* AI feature definition
-* MVP planning
-* Conversational UX
-* AI evaluation
-* Product metrics
-* Human-in-the-loop design
-
-
----
-
-## 📊 Product Analytics Dashboard
-
-**Product Analytics • SQL • Data • Product Strategy**
-
-A product analytics system designed to help teams understand user behavior and identify opportunities for product improvement.
-
-### Metrics
-
-* Activation
-* Retention
-* Conversion
-* Churn
-* Feature adoption
-* Engagement
-* Revenue
-
-### Product questions
-
-> Where are users dropping off?
-
-> Which features create the most value?
-
-> What should we build next?
-
-
----
-
-# 📋 How I Approach Product
-
-I generally think about products through this framework:
-
-```text
-                 USER PROBLEM
-                      ↓
-                USER RESEARCH
-                      ↓
-              PROBLEM VALIDATION
-                      ↓
-               PRODUCT STRATEGY
-                      ↓
-              MVP DEFINITION
-                      ↓
-              PRIORITIZATION
-                      ↓
-            PRD + USER STORIES
-                      ↓
-             DESIGN + ENGINEERING
-                      ↓
-                  LAUNCH
-                      ↓
-                MEASURE
-                      ↓
-                ITERATE
-```
-
-The goal isn't simply to **build more features**.
-
-It's to build the **right thing for the right problem**.
-
----
-
-# 📈 Product Metrics I Care About
-
-Depending on the product, I focus on metrics across the complete user journey:
-
-| Stage           | Example Metrics                                          |
-| --------------- | -------------------------------------------------------- |
-| Acquisition     | Sign-ups, CAC, traffic                                   |
-| Activation      | Onboarding completion, first-value event                 |
-| Engagement      | DAU, WAU, feature adoption                               |
-| Retention       | D7, D30, cohort retention                                |
-| Conversion      | Trial → Paid, user → customer                            |
-| Revenue         | MRR, ARR, ARPU, LTV                                      |
-| Product Quality | Error rate, satisfaction, task success                   |
-| Product Outcome | Successful matches, completed workflows, business impact |
-
----
-
-# 🧠 Product Principles
-
-### 01 — Start with the problem
-
-Don't start with a feature.
-
-Start with understanding **why the problem exists**.
-
-### 02 — Build the smallest useful thing
-
-An MVP should validate the most important assumption, not contain every possible feature.
-
-### 03 — Make product decisions explainable
-
-Every major product decision should have a reason behind it.
-
-### 04 — Data informs decisions
-
-Metrics don't replace product judgment, but they make assumptions testable.
-
-### 05 — AI should solve a real problem
-
-AI isn't a feature by itself.
-
-The question is:
-
-> **Does AI create meaningful user or business value here?**
-
-### 06 — Product and engineering should work together
-
-Strong products come from close collaboration between **users, product, design, and engineering**.
-
----
-
-# 📚 Product Artifacts
-
-I document product decisions and thinking through:
-
-* Product Requirement Documents
-* User Personas
-* User Journey Maps
-* Competitive Analysis
-* Product Roadmaps
-* Feature Prioritization
-* User Stories
-* Acceptance Criteria
-* Product Metrics
-* Experiment Plans
-* Technical Architecture
-* AI Product Specifications
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/ananya26-vishnoi">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananya26-vishnoi&theme=radical" alt="Ananya's GitHub Contribution"/>
-  </a>
-</p>
-
-
----
-
-# 🤝 Let's Connect
-
-I'm currently exploring opportunities in:
-
-**Product Management • Technical Product Management • Product Ownership • Technical Project Management**
-
-If you're working on interesting products involving **AI, SaaS, consumer technology, or 0→1 product development**, I'd love to connect.
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ananya-vishnoi/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://ananyavishnoi.vercel.app/">
-<img src="https://img.shields.io/badge/View_Portfolio-DC143C?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
-
----
+## ⚡ What I'm Working On
 
 <div align="center">
 
-### **Problem → Product → Production → Learn → Repeat**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧡 Roomrr
+
+**Founding Engineer**
+
+Contributing to the journey of building Roomrr — working on product development, engineering execution and turning ideas into useful product experiences.
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 My Engineering Journey
+
+**Always Building. Always Learning.**
+
+Strengthening my engineering fundamentals, exploring modern development tools and building projects that demonstrate practical software engineering.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+*Technologies I've worked with and continue to explore.*
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,python,html,css,sql" />
+
+### Frameworks & Development
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,vue,django" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postgres,vscode,postman" />
+
+</div>
+
+---
+
+## 🚀 What I Build
+
+| Area | Focus |
+|---|---|
+| 📱 Mobile Development | React Native applications and mobile experiences |
+| 🌐 Frontend Engineering | Interactive, responsive web applications |
+| ⚙️ Backend Development | APIs, application logic and database fundamentals |
+| 🧡 Product Engineering | Turning ideas and requirements into working products |
+| 🧪 Experimentation | Exploring new technologies and building practical projects |
+
+---
+
+## 🌟 Selected Work
+
+I enjoy building applications that solve problems and make everyday experiences better.
+
+### 📱 Mobile Application Development
+
+Built 4–5 applications using React Native, gaining hands-on experience in mobile application development.
+
+### 🌐 Web Application Development
+
+Worked on web development projects involving frontend technologies and backend frameworks.
+
+### 🧡 Roomrr
+
+Contributing to an early-stage product as a Founding Engineer, bringing engineering and product execution together.
+
+*Project repositories, screenshots and live demos will be added here as I publish my portfolio projects.*
+
+---
+
+## 🧠 How I Think About Engineering
+
+```text
+          UNDERSTAND THE PROBLEM
+                    ↓
+             EXPLORE SOLUTIONS
+                    ↓
+             DESIGN THE SYSTEM
+                    ↓
+               WRITE CODE
+                    ↓
+             TEST & IMPROVE
+                    ↓
+              SHIP THE PRODUCT
+                    ↓
+             LEARN & ITERATE
+```
+
+> I don't just want to build software that works. I want to understand why it should exist, how it should work and how to make it better.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananya26-vishnoi&theme=github_dark" alt="GitHub Profile Summary" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ananya26-vishnoi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya26-vishnoi&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=ananya26-vishnoi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌍 Beyond the Code
+
+I'm interested in connecting with engineers, founders and technology enthusiasts around the world.
+
+I'm especially excited about:
+
+- Modern software engineering
+- Web and mobile application development
+- Startup engineering and 0→1 products
+- Developer tools and emerging technologies
+- Learning from global engineering communities
+
+I'm open to meaningful conversations, collaborations and international software engineering opportunities.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### Have an interesting idea? Let's build something.
+
+<a href="https://www.linkedin.com/in/ananya-vishnoi/"><img src="https://img.shields.io/badge/LinkedIn-Ananya%20Vishnoi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<a href="https://ananyavishnoi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<a href="mailto:ananyavishnoi26@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+**BUILD. SHIP. LEARN. REPEAT.** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:111827&height=100&section=footer" width="100%" />
 
 </div>
